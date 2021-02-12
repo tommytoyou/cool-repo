@@ -1,0 +1,27 @@
+{
+  "name": "cool-repo",
+  "version": "1.0.0",
+  "description": "cool app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommytoyou/cool-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tommytoyou/cool-repo/issues"
+  },
+  "homepage": "https://github.com/tommytoyou/cool-repo#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "express-ejs-layouts": "^2.5.0",
+    "morgan": "^1.10.0",
+    "node-fetch": "^2.6.1",
+    "pg": "^8.5.1"
+  }
+}
